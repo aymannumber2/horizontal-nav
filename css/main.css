@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5em;
+  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
@@ -16,23 +17,23 @@ li {
   font-family: arial;
   color: #fff;
   list-style-type: none;
+  margin: 0;
 }
 
 header {
   background-color: #79756f;
-  border-top: 2px solid #595652;
-  border-bottom: 2px solid #595652;
-  padding: 0;
-  padding-top: 1.5em;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
+  padding: 0.5em;
 }
 
 a {
-  padding: 1em;
+  padding: .5em .75em;
   background-color: #713837;
   border-radius: 7.5px;
   display: inline-block;
   color: #fff;
-  margin: .1em;
+  margin-bottom: .25em;
   text-decoration: none;
 }
 
@@ -45,7 +46,8 @@ h1 {
   font-family: Bevan, serif;
   text-align: center;
   color: #fff;
-  margin: 0;
+  margin-bottom: .5em;
+  margin-top: 0.4em;
 }
 
 nav {
