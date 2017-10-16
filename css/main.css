@@ -21,7 +21,7 @@ header {
   background-color: #79756f;
   border-top: 2px solid #595652;
   border-bottom: 2px solid #595652;
-  padding: 0.5em;
+  padding: .5em;
   padding-top: 1.5em;
   padding-bottom: 0;
 }
@@ -32,7 +32,7 @@ a {
   border-radius: 7.5px;
   display: inline-block;
   color: #fff;
-  margin: 0.1em;
+  margin: .1em;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ a:hover {
 
 h1 {
   padding: 0;
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
   text-align: center;
   color: #fff;
   margin: 0;
